@@ -35,7 +35,7 @@ while True:
     if (char == "p"):
         print("Stop!")
         exit(0)
-1
+
     if (char == "a"):
         print("Left pressed")
         time.sleep(button_delay)
