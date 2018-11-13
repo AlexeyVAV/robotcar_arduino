@@ -1,17 +1,3 @@
-# from curtsies import Input
-#
-# def main():
-#     with Input(keynames='curses') as input_generator:
-#         for e in input_generator:
-#             print(repr(e))
-#
-# if __name__ == '__main__':
-#     main()
-
-# !/usr/bin/python3
-
-# adapted from https://github.com/recantha/EduKit3-RC-Keyboard/blob/master/rc_keyboard.py
-
 import sys, termios, tty, os, time
 
 
